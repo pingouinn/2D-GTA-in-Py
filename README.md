@@ -9,7 +9,7 @@
       <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/pingouinn/2D-GTA-in-Py?style=for-the-badge">
     <a>
     <br>
-    <a>
+    <a href="https://github.com/pingouinn/2D-GTA-in-Py/blob/main/LICENSE">
       <img alt="GitHub" src="https://img.shields.io/github/license/pingouinn/2D-GTA-in-Py?style=for-the-badge">
     </a>
 </p>
