@@ -8,9 +8,8 @@
 </p>
 <h3 align="center">
     <strong>A python game recreating GTA logics from "GTA:Chinatown Wars" using pyxel lib</strong>
+    <strong>**Developement still in progress. Not playable as a game for the moment.**<strong>
 </h3>
-
-**Developement still in progress. Not playable as a game for the moment.**
 
 ## Installation
 
